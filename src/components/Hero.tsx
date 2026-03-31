@@ -121,13 +121,13 @@ export default function Hero() {
               Contact Me
             </a>
             <a
-              href="https://drive.google.com/drive/folders/15BSSR4W7VYkSO6Q-mDxWHmNGuMZt5TIh?usp=sharing"
+              href="https://drive.google.com/file/d/1KvYyCJARQuqlyZzkqD08NDLTcwfpAqQu/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
               className="px-8 py-4 border-2 border-[#f5a623]/70 text-[#f5a623] hover:bg-[#f5a623]/10 font-bold uppercase tracking-widest transition-all glass-glow-gold rounded-md text-sm font-mono flex items-center gap-2 justify-center"
             >
               <Download size={16} />
-              Certificates
+              Download Resume 
             </a>
           </motion.div>
 
