@@ -38,7 +38,7 @@ export default function Hero() {
   const stats = [
     { label: "CGPA", value: "3.50" },
     { label: "Projects", value: "10+" },
-    { label: "Certifications", value: "3+" },
+    { label: "Certifications", value: "20+" },
     { label: "Years Coding", value: "4+" },
   ];
 
