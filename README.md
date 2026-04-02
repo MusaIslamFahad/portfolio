@@ -12,7 +12,7 @@
 
 **A modern, animated, dark-themed portfolio website built with Next.js 16, TypeScript, Tailwind CSS v4, and Framer Motion.**
 
-[🚀 Live Demo](#) &nbsp;·&nbsp; [📬 Contact Me](mailto:musa.islam.fahad@gmail.com) &nbsp;·&nbsp; [💼 LinkedIn](https://www.linkedin.com/in/md-musa-islam-fahad-b18759249/) &nbsp;·&nbsp; [🐙 GitHub](https://github.com/MusaIslamFahad)
+[🚀 Live Demo](https://musaislamfahad.vercel.app/) &nbsp;·&nbsp; [📬 Contact Me](mailto:musa.islam.fahad@gmail.com) &nbsp;·&nbsp; [💼 LinkedIn](https://www.linkedin.com/in/md-musa-islam-fahad-b18759249/) &nbsp;·&nbsp; [🐙 GitHub](https://github.com/MusaIslamFahad)
 
 </div>
 
