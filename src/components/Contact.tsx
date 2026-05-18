@@ -1,7 +1,7 @@
 "use client";
 import { useState } from "react";
 import { motion } from "framer-motion";
-import { Github, Linkedin, Mail, MapPin, Phone, Send } from "lucide-react";
+import { Github, Linkedin, Mail, MapPin, Send } from "lucide-react";
 
 export default function Contact() {
   const [formData, setFormData] = useState({ name: "", email: "", subject: "", message: "" });
@@ -25,7 +25,7 @@ export default function Contact() {
     {
       icon: <MapPin size={18} className="text-[#f5a623]" />,
       label: "Location",
-      value: "Mirpur, Dhaka-1216",
+      value: "Mirpur, Dhaka-1216, Bangladesh",
       href: null,
     },
   ];
