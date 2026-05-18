@@ -23,15 +23,9 @@ export default function Contact() {
       href: "mailto:musa.islam.fahad@gmail.com",
     },
     {
-      icon: <Phone size={18} className="text-[#00e5c8]" />,
-      label: "Phone",
-      value: "+880 1518-447339",
-      href: "tel:+8801518447339",
-    },
-    {
       icon: <MapPin size={18} className="text-[#f5a623]" />,
       label: "Location",
-      value: "84/A, Middle Pirerbag, Mirpur, Dhaka-1216",
+      value: "Mirpur, Dhaka-1216",
       href: null,
     },
   ];
