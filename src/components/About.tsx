@@ -1,12 +1,11 @@
 "use client";
 import { motion } from "framer-motion";
-import { User, MapPin, Mail, Phone, Globe, Github, Linkedin } from "lucide-react";
+import { User, MapPin, Mail, Globe, Github, Linkedin } from "lucide-react";
 
 export default function About() {
   const info = [
     { icon: <MapPin size={16} className="text-[#00e5c8]" />, label: "Location", value: "Mirpur, Dhaka-1216, Bangladesh" },
     { icon: <Mail size={16} className="text-[#00e5c8]" />, label: "Email", value: "musa.islam.fahad@gmail.com", href: "mailto:musa.islam.fahad@gmail.com" },
-    { icon: <Phone size={16} className="text-[#00e5c8]" />, label: "Phone", value: "+880 1518-447339", href: "tel:+8801518447339" },
     { icon: <Globe size={16} className="text-[#f5a623]" />, label: "Languages", value: "Bangla (Native) · English (Professional)" },
   ];
 
